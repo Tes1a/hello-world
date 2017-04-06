@@ -1,3 +1,25 @@
+B:q
+Bns
+dada
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+Bi
+CI
+B
+B
+B
+A
+A
+B
 # hello-world
 My first repository
 This is Kushal Karmani.
